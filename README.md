@@ -17,6 +17,7 @@
     * Eventos apresentedos: Android Meetup BH, DevFest Feira de Santana 2018, TDC Recife 2019
 
 * [Android Way to Pro: Roadmap 2019](https://github.com/drcabral/talks/blob/master/Android%20way%20to%20pro_%20Roadmap%202019.pdf)
+    * Apresentação criada e realizada junto com [Ana Coimbra](https://www.linkedin.com/in/anacoimbrag/)
     * Projeto realizado para apoiar pessoas em diversos níveis na jornada do aprendizado da plataforma Android, com tópicos para estudos e um caminho sugerido dos tópicos para pesquisas.
     * Eventos apresentados: Android Fest BH 2019, TDC Belo Horizonte 2019, DevFest Natal 2019
 
