@@ -9,6 +9,7 @@
     * Eventos apresentados: Meetup Front-end BH, TDC Recife 2019
 
 * [Fundamentos Android: do 0 à minha primeira app](https://github.com/drcabral/talks/blob/master/Fundamentos%20Android%20-%20do%200%20%C3%A0%20minha%20primeira%20app.pdf)
+    * Apresentação criada e realizada junto com [Marcella Souza](https://www.linkedin.com/in/marcellasouza/)
     * Roteiro de um workshop com conceitos rápidos sobre componentes que sempre serão utilizados no desenvolvimento de apps Android
     * Eventos apresentados: BHack 2018
 
